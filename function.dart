@@ -1,7 +1,7 @@
 void main() {
   //print(addTwoNumber(10, 20, 5));
- //ar myC=myClass();
- //myC.a
+  //ar myC=myClass();
+  //myC.a
 
   //print(addTwoNumber(100, 200, 0));
 
@@ -10,7 +10,7 @@ void main() {
 }
 
 //mixin myClass (){
- void addTwoNumber(a, b, c) {
+void addTwoNumber(a, b, c) {
   int sum = a + b + c;
   //return //sum;
 }
